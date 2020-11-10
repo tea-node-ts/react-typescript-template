@@ -48,6 +48,8 @@
 
 * 我个人不喜欢style.xxx这种方式使用css
 
+地址：https://github.com/transitive-bullshit/create-react-library
+
 推荐：4星
 
 ### nwb
@@ -60,6 +62,8 @@
 
 * 不支持TypeScript
 * 说是零配置，其实还是有些简单了，还需要额外的配置
+
+地址：https://github.com/insin/nwb
 
 推荐：3星
 
